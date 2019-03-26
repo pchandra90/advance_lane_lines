@@ -3,7 +3,7 @@
 ![Lanes Image](./examples/example_output.jpg)
 
 
-This is second project of Udacity's Self Driving Car Nanodegree. To find lane and its curvature on road, computer vision methods i.e. camera celibration, sobel, prespective transformation etc. have been used. For details see [P2.ipynb](https://github.com/pchandra90/advance_lane_lines/blob/master/P2.ipynb) and [writeup](https://github.com/pchandra90/advance_lane_lines/blob/master/writeup.md)
+This is second project of Udacity's Self Driving Car Nanodegree. To find lane and its curvature on road, computer vision methods i.e. camera calibration, sobel, perspective transformation etc. have been used. For details see [P2.ipynb](https://github.com/pchandra90/advance_lane_lines/blob/master/P2.ipynb) and [writeup](https://github.com/pchandra90/advance_lane_lines/blob/master/writeup.md)
 
 ---
 
